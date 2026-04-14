@@ -6,7 +6,7 @@
 
 ## 📦 Skills 列表
 
-### maprd
+### html-to-prd
 
 > Axure 原型 HTML → AI 编程专用 PRD Markdown 文档生成器
 
