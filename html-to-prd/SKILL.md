@@ -1,25 +1,25 @@
-# html-to-prd - HTML to PRD Generator
+#html-to-prd - HTML到PRD生成器
 
-> **从 Axure 导出的 HTML 高保真原型文件中，深度扫描和自动提取所有页面元素、字段、交互动作/事件、筛选条件、统计指标、弹窗页面、约束条件、Tab 页结构、导航层级关系、动态面板、二级级联动态面板和中继器控件等，生成AI编程专用PRD Markdown文档**
+> **从Axure导出的HTML高保真原型文件中，深度扫描和自动提取所有页面元素、字段、交互动作/事件、筛选条件、统计指标、弹窗页面、约束条件、Tab页结构、导航层级关系、动态面板、二级级联动态面板和中继器控件等，生成AI编程专用PRD Markdown文档**
 
 ---
 
-## Metadata
+##元数据
 
 | 属性 | 内容 |
 |------|------|
-| **名称** | html-to-prd（HTML to PRD Generator） |
+| **名称** |html-to-prd（HTML到PRD生成器）|
 | **版本** | 1.0.0 |
-| **作者** | 马利涛（AI PM） |
+| **作者** |chainmarry（人工智能项目经理）|
 | **创建日期** | 2026-04-14 |
-| **触发词** | "生成PRD" / "从Axure原型生成PRD" / "html-to-prd" |
+| **触发词** |“生成PRD” / “从Axure原型生成PRD” / “html-to-prd”|
 | **存储位置** | `~/.workbuddy/skills/html-to-prd/SKILL.md` |
 
 ---
 
-## Description
+##描述
 
-本skill用于从Axure导出的原型HTML文件夹深度扫描所有页面字段、筛选条件、新增弹窗、约束条件说明，生成结构化的PRD Markdown文档，供AI编程使用。
+本技能用于从Axure导出的原型HTML文件夹深度扫描所有页面字段、筛选条件、新增弹窗、约束条件说明，生成结构化的PRD Markdown文档，供AI编程使用。
 
 **适用场景**：
 - 从Axure原型HTML生成PRD文档
